@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ae69ca-b3c6-495f-acd3-e20b75cd5328" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/common/template/menu.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/template/slideBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/template/menuItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/template/menuTree.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/template/menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/template/menu.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +25,9 @@
         <counts>
           <entry key="css" value="1" />
           <entry key="html" value="3" />
-          <entry key="js" value="3" />
+          <entry key="js" value="4" />
           <entry key="json" value="2" />
-          <entry key="jsx" value="8" />
+          <entry key="jsx" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -35,8 +35,8 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="3" />
           <entry key="JSON" value="2" />
-          <entry key="JSX Harmony" value="8" />
-          <entry key="JavaScript" value="3" />
+          <entry key="JSX Harmony" value="10" />
+          <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -44,14 +44,14 @@
           <entry key="html" value="168" />
           <entry key="js" value="1204" />
           <entry key="json" value="129" />
-          <entry key="jsx" value="802" />
+          <entry key="jsx" value="1339" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="168" />
           <entry key="JSON" value="129" />
-          <entry key="JSX Harmony" value="802" />
+          <entry key="JSX Harmony" value="1339" />
           <entry key="JavaScript" value="1204" />
         </counts>
       </usages-collector>
@@ -63,7 +63,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/app.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -88,10 +88,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/template/menuItem.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/common/template/menu.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="150">
+              <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/template/menuTree.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -125,9 +146,11 @@
         <option value="$PROJECT_DIR$/src/common/template/dependecies.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/common/template/header.jsx" />
-        <option value="$PROJECT_DIR$/src/common/template/menu.jsx" />
         <option value="$PROJECT_DIR$/src/common/template/slideBar.jsx" />
         <option value="$PROJECT_DIR$/src/main/app.jsx" />
+        <option value="$PROJECT_DIR$/src/common/template/menuItem.jsx" />
+        <option value="$PROJECT_DIR$/src/common/template/menuTree.jsx" />
+        <option value="$PROJECT_DIR$/src/common/template/menu.jsx" />
       </list>
     </option>
   </component>
@@ -205,7 +228,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538584243412" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538586660142" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,12 +260,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538568241598</updated>
-      <workItem from="1538568246462" duration="6458000" />
+      <workItem from="1538568246462" duration="8867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6458000" />
+    <option name="totallyTimeSpent" value="8867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="6" />
@@ -336,10 +359,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/template/menu.jsx">
+    <entry file="file://$PROJECT_DIR$/node_modules/admin-lte/plugins/jQueryUI/jquery-ui.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="186">
+          <caret line="2750" column="21" selection-start-line="2750" selection-start-column="21" selection-end-line="2750" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -353,12 +386,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/app.jsx">
+    <entry file="file://$PROJECT_DIR$/src/common/template/menuItem.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="75">
+          <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/template/menuTree.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/template/menu.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
