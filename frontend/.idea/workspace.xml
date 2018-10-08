@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ae69ca-b3c6-495f-acd3-e20b75cd5328" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/common/tab/tabs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/tab/tabsContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/tab/tabsHeader.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +31,7 @@
           <entry key="html" value="3" />
           <entry key="js" value="11" />
           <entry key="json" value="2" />
-          <entry key="jsx" value="38" />
+          <entry key="jsx" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -35,7 +39,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="3" />
           <entry key="JSON" value="2" />
-          <entry key="JSX Harmony" value="38" />
+          <entry key="JSX Harmony" value="42" />
           <entry key="JavaScript" value="11" />
         </counts>
       </usages-collector>
@@ -45,7 +49,7 @@
           <entry key="html" value="168" />
           <entry key="js" value="1895" />
           <entry key="json" value="129" />
-          <entry key="jsx" value="4671" />
+          <entry key="jsx" value="5042" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -53,7 +57,7 @@
           <entry key="CSS" value="37" />
           <entry key="HTML" value="168" />
           <entry key="JSON" value="129" />
-          <entry key="JSX Harmony" value="4671" />
+          <entry key="JSX Harmony" value="5042" />
           <entry key="JavaScript" value="1895" />
         </counts>
       </usages-collector>
@@ -65,47 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dashboard/dashboard.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="16" column="14" lean-forward="true" selection-end-line="35" selection-end-column="70" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/dashboard2/dashboard2.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="64" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/routes.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="57" lean-forward="true" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            <state relative-caret-position="240">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -113,11 +81,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/common/template/contentHeader.jsx">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/tab/tabs.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            <state relative-caret-position="60">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/tab/tabsHeader.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/tab/tabsContent.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -169,8 +155,11 @@
         <option value="$PROJECT_DIR$/src/index.jsx" />
         <option value="$PROJECT_DIR$/src/dashboard2/dashboard2.jsx" />
         <option value="$PROJECT_DIR$/src/main/routes.jsx" />
-        <option value="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" />
         <option value="$PROJECT_DIR$/src/common/template/contentHeader.jsx" />
+        <option value="$PROJECT_DIR$/src/common/tab/tabs.jsx" />
+        <option value="$PROJECT_DIR$/src/common/tab/tabsHeader.jsx" />
+        <option value="$PROJECT_DIR$/src/common/tab/tabsContent.jsx" />
+        <option value="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" />
       </list>
     </option>
   </component>
@@ -231,7 +220,7 @@
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="tab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
@@ -261,7 +250,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539030578016" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539030940303" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -296,12 +285,12 @@
       <updated>1538568241598</updated>
       <workItem from="1538568246462" duration="14871000" />
       <workItem from="1538760252990" duration="6821000" />
-      <workItem from="1539017363778" duration="3542000" />
+      <workItem from="1539017363778" duration="3904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25234000" />
+    <option name="totallyTimeSpent" value="25596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="6" />
@@ -539,13 +528,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
+    <entry file="file://$PROJECT_DIR$/src/common/tab/tabs.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="57" lean-forward="true" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/tab/tabsHeader.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/tab/tabsContent.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -553,6 +553,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
