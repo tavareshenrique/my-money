@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ae69ca-b3c6-495f-acd3-e20b75cd5328" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/common/tab/tabs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/tab/tabsContent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/tab/tabsHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/tab/tabHeader.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" afterDir="false" />
     </list>
@@ -31,7 +29,7 @@
           <entry key="html" value="3" />
           <entry key="js" value="11" />
           <entry key="json" value="2" />
-          <entry key="jsx" value="42" />
+          <entry key="jsx" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -39,7 +37,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="3" />
           <entry key="JSON" value="2" />
-          <entry key="JSX Harmony" value="42" />
+          <entry key="JSX Harmony" value="43" />
           <entry key="JavaScript" value="11" />
         </counts>
       </usages-collector>
@@ -49,7 +47,7 @@
           <entry key="html" value="168" />
           <entry key="js" value="1895" />
           <entry key="json" value="129" />
-          <entry key="jsx" value="5042" />
+          <entry key="jsx" value="5435" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -57,7 +55,7 @@
           <entry key="CSS" value="37" />
           <entry key="HTML" value="168" />
           <entry key="JSON" value="129" />
-          <entry key="JSX Harmony" value="5042" />
+          <entry key="JSX Harmony" value="5435" />
           <entry key="JavaScript" value="1895" />
         </counts>
       </usages-collector>
@@ -69,14 +67,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="22" column="87" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/common/tab/tabHeader.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -160,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/common/tab/tabsHeader.jsx" />
         <option value="$PROJECT_DIR$/src/common/tab/tabsContent.jsx" />
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" />
+        <option value="$PROJECT_DIR$/src/common/tab/tabHeader.jsx" />
       </list>
     </option>
   </component>
@@ -250,7 +258,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539030940303" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539033018553" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -285,12 +293,12 @@
       <updated>1538568241598</updated>
       <workItem from="1538568246462" duration="14871000" />
       <workItem from="1538760252990" duration="6821000" />
-      <workItem from="1539017363778" duration="3904000" />
+      <workItem from="1539017363778" duration="4947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25596000" />
+    <option name="totallyTimeSpent" value="26639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1366" height="738" extended-state="6" />
@@ -558,11 +566,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="330">
+          <caret line="22" column="87" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/tab/tabHeader.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
