@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ae69ca-b3c6-495f-acd3-e20b75cd5328" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +16,15 @@
     <session id="2145538336">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.108" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.73" value="1" />
           <entry key="project.open.time.74" value="1" />
-          <entry key="project.open.time.81" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.81" value="2" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -48,9 +49,9 @@
         <counts>
           <entry key="css" value="37" />
           <entry key="html" value="180" />
-          <entry key="js" value="3768" />
+          <entry key="js" value="3922" />
           <entry key="json" value="129" />
-          <entry key="jsx" value="9579" />
+          <entry key="jsx" value="9618" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -58,8 +59,8 @@
           <entry key="CSS" value="37" />
           <entry key="HTML" value="180" />
           <entry key="JSON" value="129" />
-          <entry key="JSX Harmony" value="9579" />
-          <entry key="JavaScript" value="3768" />
+          <entry key="JSX Harmony" value="9618" />
+          <entry key="JavaScript" value="3922" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -70,11 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+              <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -85,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleActions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            <state relative-caret-position="405">
+              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -94,23 +95,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            <state relative-caret-position="480">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/template/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -176,9 +168,9 @@
         <option value="$PROJECT_DIR$/src/common/form/labelAndInput.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycleList.jsx" />
-        <option value="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" />
-        <option value="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" />
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" />
+        <option value="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" />
+        <option value="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" />
       </list>
     </option>
   </component>
@@ -208,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -265,13 +256,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539392944430" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539392978658" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -310,18 +302,19 @@
       <workItem from="1539113339262" duration="4026000" />
       <workItem from="1539189560262" duration="6362000" />
       <workItem from="1539276553434" duration="8949000" />
-      <workItem from="1539379428219" duration="6619000" />
+      <workItem from="1539379428219" duration="6665000" />
+      <workItem from="1539451622858" duration="1006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56337000" />
+    <option name="totallyTimeSpent" value="57389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1600" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27413127" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27799228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -612,9 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -622,26 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
@@ -657,8 +627,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="480">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
