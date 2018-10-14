@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ae69ca-b3c6-495f-acd3-e20b75cd5328" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/billingCycle/creditList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/itemList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/billingCycle/itemList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/itemList.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
         <counts>
           <entry key="css" value="5" />
           <entry key="html" value="7" />
-          <entry key="js" value="39" />
+          <entry key="js" value="40" />
           <entry key="json" value="4" />
           <entry key="jsx" value="89" />
         </counts>
@@ -43,16 +43,16 @@
           <entry key="HTML" value="7" />
           <entry key="JSON" value="4" />
           <entry key="JSX Harmony" value="89" />
-          <entry key="JavaScript" value="39" />
+          <entry key="JavaScript" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="89" />
           <entry key="html" value="180" />
-          <entry key="js" value="4018" />
+          <entry key="js" value="4025" />
           <entry key="json" value="129" />
-          <entry key="jsx" value="11785" />
+          <entry key="jsx" value="11948" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -60,8 +60,8 @@
           <entry key="CSS" value="89" />
           <entry key="HTML" value="180" />
           <entry key="JSON" value="129" />
-          <entry key="JSX Harmony" value="11785" />
-          <entry key="JavaScript" value="4018" />
+          <entry key="JSX Harmony" value="11948" />
+          <entry key="JavaScript" value="4025" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="300">
+              <caret line="26" column="121" selection-start-line="26" selection-start-column="121" selection-end-line="26" selection-end-column="121" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -87,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/billingCycle/itemList.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -158,9 +158,9 @@
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycleList.jsx" />
         <option value="$PROJECT_DIR$/src/common/template/css/custom.css" />
         <option value="$PROJECT_DIR$/src/common/form/input.jsx" />
-        <option value="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" />
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" />
         <option value="$PROJECT_DIR$/src/billingCycle/creditList.jsx" />
+        <option value="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" />
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" />
         <option value="$PROJECT_DIR$/src/billingCycle/itemList.jsx" />
       </list>
@@ -255,7 +255,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539556171598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539557411965" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -296,12 +296,12 @@
       <workItem from="1539276553434" duration="8949000" />
       <workItem from="1539379428219" duration="6665000" />
       <workItem from="1539451622858" duration="2606000" />
-      <workItem from="1539543005395" duration="11074000" />
+      <workItem from="1539543005395" duration="12250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70063000" />
+    <option name="totallyTimeSpent" value="71239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1600" height="900" extended-state="6" />
@@ -635,16 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="56" column="44" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -655,10 +645,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="300">
+          <caret line="26" column="121" selection-start-line="26" selection-start-column="121" selection-end-line="26" selection-end-column="121" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
@@ -667,8 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/billingCycle/itemList.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
