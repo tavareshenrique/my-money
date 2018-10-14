@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ae69ca-b3c6-495f-acd3-e20b75cd5328" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/billingCycle/creditList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/billingCycle/billingCycleList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/billingCycle/billingCycleList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/template/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/template/css/custom.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,7 @@
           <entry key="html" value="7" />
           <entry key="js" value="34" />
           <entry key="json" value="4" />
-          <entry key="jsx" value="83" />
+          <entry key="jsx" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -43,7 +42,7 @@
           <entry key="CSS" value="5" />
           <entry key="HTML" value="7" />
           <entry key="JSON" value="4" />
-          <entry key="JSX Harmony" value="83" />
+          <entry key="JSX Harmony" value="85" />
           <entry key="JavaScript" value="34" />
         </counts>
       </usages-collector>
@@ -53,7 +52,7 @@
           <entry key="html" value="180" />
           <entry key="js" value="4007" />
           <entry key="json" value="129" />
-          <entry key="jsx" value="9851" />
+          <entry key="jsx" value="10303" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -61,7 +60,7 @@
           <entry key="CSS" value="89" />
           <entry key="HTML" value="180" />
           <entry key="JSON" value="129" />
-          <entry key="JSX Harmony" value="9851" />
+          <entry key="JSX Harmony" value="10303" />
           <entry key="JavaScript" value="4007" />
         </counts>
       </usages-collector>
@@ -72,7 +71,32 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/billingCycle/creditList.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,10 +156,11 @@
         <option value="$PROJECT_DIR$/src/common/form/labelAndInput.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycleActions.js" />
-        <option value="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" />
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycle.jsx" />
         <option value="$PROJECT_DIR$/src/billingCycle/billingCycleList.jsx" />
         <option value="$PROJECT_DIR$/src/common/template/css/custom.css" />
+        <option value="$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx" />
+        <option value="$PROJECT_DIR$/src/billingCycle/creditList.jsx" />
       </list>
     </option>
   </component>
@@ -215,7 +240,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539547284340" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539550275583" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -256,15 +281,16 @@
       <workItem from="1539276553434" duration="8949000" />
       <workItem from="1539379428219" duration="6665000" />
       <workItem from="1539451622858" duration="2606000" />
-      <workItem from="1539543005395" duration="3365000" />
+      <workItem from="1539543005395" duration="5407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62354000" />
+    <option name="totallyTimeSpent" value="64396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1600" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28249678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -577,16 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycle.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -611,6 +627,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/billingCycle/billingCycleForm.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/billingCycle/creditList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
