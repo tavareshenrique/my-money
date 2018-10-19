@@ -7,6 +7,7 @@ import { init } from './billingCycleActions'
 import labelAndInput from '../common/form/labelAndInput'
 import ItemList from './itemList'
 import Summary from './summary'
+import Button from '../common/form/button'
 
 class BillingCycleForm extends Component {
 
@@ -39,12 +40,8 @@ class BillingCycleForm extends Component {
                </div>
 
                <div className='box-footer' >
-
-                   <button type='submit' className={`btn btn-${this.props.submitClass}`} >
-                       { this.props.submitLabel }
-                   </button>
-
-                   <button type='button' style={ {marginLeft: '5px'} } className='btn btn-danger' onClick={this.props.init} >Cancelar</button>
+                   <Button type='submit' submitClass={this.props.submitClass} submitLabel={ this.props.submitLabel }  />
+                   <Button type='button' submitClass='danger' submitLabel='Cancelar' clickButton={this.props.init} />
                </div>
 
            </form>

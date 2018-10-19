@@ -3,6 +3,8 @@ import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 import { getList, showTab } from './billingCycleActions'
 
+import Button from '../common/form/button'
+
 class BillingCycleList extends Component {
 
     componentWillMount() {
@@ -18,13 +20,11 @@ class BillingCycleList extends Component {
                <td>{ bc.month } </td>
                <td>{ bc.year } </td>
                <td>
-                   {/*Refatorar*/}
-                   <button className='btn btn-warning' onClick={() => this.props.showTab(bc, 'tabUpdate') } >
-                       <i className='fa fa-pencil' ></i>
-                   </button>
-                   <button className='btn btn-danger' onClick={() => this.props.showTab(bc, 'tabDelete') } >
-                       <i className='fa fa-trash-o' ></i>
-                   </button>
+                   <Button submitClass='warning' clickButton={() => this.props.showTab(bc, 'tabUpdate')}
+                           submitLabel={ <i className='fa fa-pencil' ></i> } />
+
+                   <Button submitClass='danger' clickButton={() => this.props.showTab(bc, 'tabDelete')}
+                           submitLabel={ <i className='fa fa-trash-o' ></i> } />
                </td>
            </tr>
         ))

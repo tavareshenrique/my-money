@@ -2,9 +2,11 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
 import { Field, arrayInsert, arrayRemove } from 'redux-form'
+
 import Grid from '../common/layout/grid'
 import Input from '../common/form/input'
 import If from '../common/operador/if'
+import Button from '../common/form/button'
 
 class ItemList extends Component {
 
@@ -42,15 +44,16 @@ class ItemList extends Component {
                 </If>
 
                 <td>
-                    <button type='button' className='btn btn-success' onClick={() => this.add(index + 1) } >
-                        <i className='fa fa-plus' ></i>
-                    </button>
-                    <button type='button' className='btn btn-warning' onClick={() => this.add(index + 1, item) } >
-                        <i className='fa fa-clone' ></i>
-                    </button>
-                    <button type='button' className='btn btn-danger' onClick={() => this.remove(index) } >
-                        <i className='fa fa-trash-o' ></i>
-                    </button>
+
+                    <Button type='button' submitClass='success' clickButton={() => this.add(index + 1)}
+                            submitLabel={ <i className='fa fa-plus' ></i> }/>
+
+                    <Button type='button' submitClass='warning' clickButton={() => this.add(index + 1, item)}
+                            submitLabel={ <i className='fa fa-clone' ></i> }/>
+
+                    <Button type='button' submitClass='danger' clickButton={() => this.remove(index)}
+                            submitLabel={<i className='fa fa-trash-o' ></i> }/>
+
                 </td>
 
             </tr>
